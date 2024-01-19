@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "questions": "Hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "questions": "hi",
+      "answer": "hello"
+    },
+    {
+      "questions": "how are you??",
+      "answer": "good! Thanks for asking!"
+    },
+    {
+      "questions": "wwhat do you want",
+      "answer": "python -u \"c:\\Users\\Admin\\Desktop\\bot\\main.py\""
+    }
+  ]
+}
